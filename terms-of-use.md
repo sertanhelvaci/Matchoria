@@ -1,6 +1,6 @@
 # Terms of Use (EULA)
 
-**Last Updated:** [Date]
+**Last Updated:** 08.01.2026
 
 ## End User License Agreement
 
@@ -13,6 +13,7 @@ Subject to your compliance with this Agreement, we grant you a limited, non-excl
 ## 2. Restrictions
 
 You agree not to:
+
 - Copy, modify, or create derivative works of the Game
 - Reverse engineer, decompile, or disassemble the Game
 - Remove, alter, or obscure any copyright, trademark, or other proprietary notices
@@ -27,27 +28,32 @@ You agree not to:
 Matchoria offers an auto-renewable subscription service called "Pass" that provides daily power rewards and enhanced gameplay features.
 
 **Subscription Terms:**
+
 - Pass is an auto-renewable subscription that automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
 - Your Apple ID account will be charged for renewal within 24 hours prior to the end of the current subscription period
 - You can manage your subscription and turn off auto-renewal by going to your Account Settings in the App Store after purchase
 - Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription
 
 **Subscription Benefits:**
+
 - Daily power rewards (5 of each power type per day)
 - Access to exclusive features and content
 - Enhanced gameplay experience
 
 **Subscription Pricing:**
+
 - Subscription pricing and duration are displayed in the Game and may vary by region
 - Prices are subject to change with notice
 
 **Cancellation:**
+
 - You may cancel your subscription at any time through your Apple ID account settings
 - Cancellation will take effect at the end of the current billing period
 - You will continue to have access to Pass benefits until the end of your current billing period
 - No refunds will be provided for the current billing period upon cancellation
 
 **Refunds:**
+
 - Refunds for subscriptions are handled by Apple in accordance with Apple's refund policy
 - To request a refund, contact Apple Support or visit [reportaproblem.apple.com](https://reportaproblem.apple.com)
 
@@ -58,12 +64,14 @@ Matchoria offers an auto-renewable subscription service called "Pass" that provi
 Matchoria offers one-time in-app purchases for power packs that provide immediate access to game powers.
 
 **Purchase Terms:**
+
 - All in-app purchases are processed through Apple's App Store
 - Payment will be charged to your Apple ID account at confirmation of purchase
 - Purchases are final and non-refundable, except as required by law or as determined by Apple
 - Prices may vary by region and are subject to change without notice
 
 **Refunds:**
+
 - Refund requests for in-app purchases must be submitted to Apple
 - We do not process refunds directly
 - Apple's standard refund policy applies to all in-app purchases
@@ -71,11 +79,13 @@ Matchoria offers one-time in-app purchases for power packs that provide immediat
 ## 5. Game Center
 
 The Game uses Apple's Game Center service. Your use of Game Center is subject to:
+
 - Apple's Terms of Service
 - Apple's Privacy Policy
 - Apple's Game Center rules and guidelines
 
 You agree to:
+
 - Use Game Center features in accordance with Apple's terms
 - Not engage in cheating, manipulation, or fraudulent activities on leaderboards
 - Respect other players and maintain appropriate conduct
@@ -91,6 +101,7 @@ You retain ownership of any content you create or share within the Game. By usin
 ## 8. Termination
 
 We may terminate or suspend your access to the Game immediately, without prior notice, for any breach of this Agreement. Upon termination:
+
 - Your right to use the Game will cease immediately
 - You must delete all copies of the Game from your devices
 - Any subscriptions will be cancelled in accordance with Section 3
@@ -106,6 +117,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR ANY INDIRECT,
 ## 11. Changes to Terms
 
 We reserve the right to modify this Agreement at any time. We will notify you of any material changes by:
+
 - Posting the updated Agreement on this page
 - Updating the "Last Updated" date
 - Providing notice within the Game, if applicable
@@ -137,11 +149,13 @@ If you have any questions about this Agreement, please contact us at:
 ## 17. Apple-Specific Terms
 
 This Agreement is between you and the developer, not Apple. Apple is not responsible for the Game or its content. Apple's obligations are limited to:
+
 - Providing the App Store platform for distribution
 - Processing in-app purchase payments
 - Providing refunds in accordance with Apple's policies
 
 You acknowledge that:
+
 - This Agreement is between you and us, not Apple
 - Apple has no obligation to provide support for the Game
 - Apple is not responsible for addressing any claims relating to the Game
@@ -152,4 +166,3 @@ You acknowledge that:
 **By using Matchoria, you acknowledge that you have read, understood, and agree to be bound by this End User License Agreement.**
 
 _This Terms of Use is effective as of the date listed above and applies to all users of Matchoria._
-

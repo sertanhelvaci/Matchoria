@@ -100,3 +100,4 @@ We regularly update Matchoria to improve gameplay, fix bugs, and add new feature
 
 _For the best support experience, please contact us directly via email with any questions or concerns._
 
+
